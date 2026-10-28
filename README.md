@@ -2,6 +2,8 @@
 
 2D top-down action roguelite RPG for the browser. TypeScript + Phaser 3 + Vite.
 
+**Play:** https://remais.github.io/soulfall/
+
 ## Requirements
 
 - Node.js 20.19+ (developed on Node 24)

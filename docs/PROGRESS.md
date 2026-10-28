@@ -2,7 +2,7 @@
 
 ## Status (2026-10-28)
 
-**Phase 0 — Setup:** done except deploy (waiting on user OK to create GitHub repo).
+**Phase 0 — Setup:** done. Live: https://remais.github.io/soulfall/ (repo https://github.com/remais/soulfall, auto-deploy on push to `main`).
 **Phase 1A — Combat prototype:** done, tested.
 
 ### Done
@@ -27,9 +27,8 @@
 Desktop GPU is far above "average laptop" — a real laptop check is still open.
 
 ## Next
-1. Deploy (needs GitHub repo — user decision).
-2. Playtest feedback on Phase 1A feel.
-3. Phase 1B — XP gems, level-up cards, Frost Staff / Lightning Orb / Fireburst, passives, reroll/banish, 1 evolution, codex entry.
+1. Playtest feedback on Phase 1A feel.
+2. Phase 1B — XP gems, level-up cards, Frost Staff / Lightning Orb / Fireburst, passives, reroll/banish, 1 evolution, codex entry.
 
 ## Known issues
 - Prod bundle > 500 KB warning suppressed (Phaser is ~1 MB); fine for now, can code-split later.
