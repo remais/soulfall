@@ -1,0 +1,23 @@
+{
+  "class.vanguard": "Vanguard",
+  "ability.seismicSlam": "Seismic Slam",
+  "ability.guardiansWrath": "Guardian's Wrath",
+  "ability.dodge": "Dodge",
+  "hud.kills": "Kills {n}",
+  "hud.enemies": "Enemies {n}",
+  "hud.controls": "WASD move · Q / E abilities · Space dodge · Esc pause",
+  "hud.wrathActive": "WRATH",
+  "hud.surge": "The Rift surges!",
+  "pause.title": "Paused",
+  "pause.resume": "Esc — resume",
+  "pause.shake": "[1] Screen shake: {v}",
+  "pause.damageNumbers": "[2] Damage numbers: {v}",
+  "pause.lookAhead": "[3] Camera look-ahead: {v}",
+  "pause.sound": "[M] Sound: {v}",
+  "common.on": "on",
+  "common.off": "off",
+  "defeat.title": "You have fallen",
+  "defeat.summary": "Survived {time} · {kills} husks slain",
+  "defeat.restart": "Press R to rise again",
+  "boot.loading": "Opening the Rift…"
+}
